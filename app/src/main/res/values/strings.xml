@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">BugbotApp</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="controllerHeading">Bugbot Controller</string>
+    <string name="forward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
 </resources>
